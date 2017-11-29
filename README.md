@@ -29,5 +29,7 @@
 		<li><a href="https://practice.geeksforgeeks.org/problems/knight-walk/0">Knight Walk</a></li>
 	</ol>
 	<h4>Leetcode</h4>
-	-----------------
+	<ol>
+		<li><a href="https://leetcode.com/problems/two-sum/description/">Two Sum</a></li>
+	</ol>
 </center>
