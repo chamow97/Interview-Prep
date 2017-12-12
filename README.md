@@ -27,6 +27,7 @@
 		<li><a href="https://practice.geeksforgeeks.org/problems/sum-of-numbers-or-number/0">Sum of two large numbers</a></li>
 		<li><a href="https://practice.geeksforgeeks.org/problems/boolean-string-value/0">Boolean String Value</a></li>
 		<li><a href="https://practice.geeksforgeeks.org/problems/knight-walk/0">Knight Walk</a></li>
+		<li><a href="https://practice.geeksforgeeks.org/problems/game-of-chocolates/0">Game of Chocolates</a></li>
 	</ol>
 	<h4>Leetcode</h4>
 	<ol>
