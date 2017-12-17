@@ -35,5 +35,8 @@
 		 <li><a href="https://leetcode.com/contest/weekly-contest-61/problems/monotone-increasing-digits/">738. Monotone Increasing Digits</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-61/problems/daily-temperatures/">739. Daily Temperatures</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-61/problems/delete-and-earn/">740. Delete and Earn</a></li>
+		<li><a href="https://leetcode.com/contest/weekly-contest-63/problems/min-cost-climbing-stairs/">746. Min Cost Climbing Stairs</a></li>
+		<li><a href="https://leetcode.com/contest/weekly-contest-63/problems/shortest-completing-word/">748. Shortest Completing Word</a></li>
+		<li><a href="https://leetcode.com/contest/weekly-contest-63/problems/number-of-corner-rectangles/">750. Number Of Corner Rectangles</a></li>
 	</ol>
 </center>
