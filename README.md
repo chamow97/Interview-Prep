@@ -38,5 +38,6 @@
 		<li><a href="https://leetcode.com/contest/weekly-contest-63/problems/min-cost-climbing-stairs/">746. Min Cost Climbing Stairs</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-63/problems/shortest-completing-word/">748. Shortest Completing Word</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-63/problems/number-of-corner-rectangles/">750. Number Of Corner Rectangles</a></li>
+		<li><a href="https://leetcode.com/contest/weekly-contest-65/problems/reach-a-number/">754. Reach a Number</a></li>
 	</ol>
 </center>
