@@ -40,5 +40,11 @@
 		<li><a href="https://leetcode.com/contest/weekly-contest-63/problems/shortest-completing-word/">748. Shortest Completing Word</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-63/problems/number-of-corner-rectangles/">750. Number Of Corner Rectangles</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-65/problems/reach-a-number/">754. Reach a Number</a></li>
+		<li><a href="https://leetcode.com/problems/number-of-matching-subsequences/">792. Number of Matching Subsequences</a></li>
+		<li><a href="https://leetcode.com/problems/valid-tic-tac-toe-state/description/">794. Valid Tic-Tac-Toe State</a></li>
+		<li><a href="https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/">795. Number of Subarrays with Bounded Maximum</a></li>
+		<li><a href="https://leetcode.com/contest/weekly-contest-75/problems/rotate-string/">796. Rotate String</a></li>
+		<li><a href="https://leetcode.com/contest/weekly-contest-75/problems/all-paths-from-source-to-target/">797. All Paths From Source To Target</a></li>
+		<li><a href="https://leetcode.com/contest/weekly-contest-75/problems/champagne-tower/">799. Champagne Tower</a></li>
 	</ol>
 </center>
