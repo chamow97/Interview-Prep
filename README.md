@@ -20,11 +20,14 @@
 		<li><a href="https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression/0">Longest Arithmetic Progression</a></li>
 		<li><a href="https://practice.geeksforgeeks.org/problems/longest-common-substring/0">Longest Common Substring</a></li>
 		<li><a href="https://practice.geeksforgeeks.org/problems/longest-distinct-characters-in-string/0">Longest Distinct Character in a string</a></li>
+		<li><a href="https://practice.geeksforgeeks.org/problems/maximum-height-of-the-staircase/0">Maximum height of the staircase</a></li>
 		<li><a href="https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1">Minimum in a stack</a></li>
 		<li><a href="https://practice.geeksforgeeks.org/problems/missing-number-in-array/0">Missing Number in an array</a></li>
-		<li><a href="https://practice.geeksforgeeks.org/problems/nth-catalan-number/0">Nth Catalan Number</a></li>
+		<li><a href="https://practice.geeksforgeeks.org/problems/numbers-containing-1-2-and-3/0">Numbers containing 1, 2 and 3</a></li>
 		<li><a href="https://practice.geeksforgeeks.org/problems/remove-common-characters-and-concatenate/0">Remove Common characters and concatenate</a></li>
 		<li><a href="https://practice.geeksforgeeks.org/problems/sum-of-numbers-or-number/0">Sum of two large numbers</a></li>
+		<li><a href="https://practice.geeksforgeeks.org/problems/sort-a-stack/1">Sort a Stack</a></li>
+		<li><a href="https://practice.geeksforgeeks.org/problems/sum-tree/1">Sum Tree</a></li>
 		<li><a href="https://practice.geeksforgeeks.org/problems/boolean-string-value/0">Boolean String Value</a></li>
 		<li><a href="https://practice.geeksforgeeks.org/problems/knight-walk/0">Knight Walk</a></li>
 		<li><a href="https://practice.geeksforgeeks.org/problems/game-of-chocolates/0">Game of Chocolates</a></li>
@@ -46,5 +49,7 @@
 		<li><a href="https://leetcode.com/contest/weekly-contest-75/problems/rotate-string/">796. Rotate String</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-75/problems/all-paths-from-source-to-target/">797. All Paths From Source To Target</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-75/problems/champagne-tower/">799. Champagne Tower</a></li>
+		<li><a href="https://leetcode.com/contest/weekly-contest-75/problems/champagne-tower/">807. Max Increase to Keep City Skyline</a></li>
+		<li><a href="https://leetcode.com/problems/linked-list-components/description/">817. Linked List Components</a></li>
 	</ol>
 </center>
