@@ -57,6 +57,20 @@
 	    20. Valid Parentheses</a></li>
 	    <li><a href="https://leetcode.com/problems/merge-two-sorted-lists/description/">
 	    21. Merge Two Sorted Lists</a></li>
+	    <li><a href="https://leetcode.com/problems/generate-parentheses/">
+	    22. Generate Parentheses</a></li>
+	    <li><a href="https://leetcode.com/problems/merge-k-sorted-lists/">
+	    23. Merge k Sorted Lists</a></li>
+	    <li><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">
+	    33. Search in Rotated Sorted Array</a></li>
+	    <li><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">
+	    34. Find First and Last Position of Element in Sorted Array</a></li>
+	    <li><a href="https://leetcode.com/problems/combination-sum/">
+	    39. Combination Sum</a></li>
+	    <li><a href="https://leetcode.com/problems/rotate-image/">
+	    48. Rotate Image</a></li>
+	    <li><a href="https://leetcode.com/problems/jump-game/">
+	    55. Jump Game</a></li>
 	    <li><a href="https://leetcode.com/problems/unique-paths-ii/description/">
 	    63. Unique Paths II</a></li>
 		<li><a href="https://leetcode.com/problems/minimum-path-sum/description/">
