@@ -39,7 +39,23 @@
 	    <li><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">3. Longest Substring Without Repeating Characters</a></li>
 		<li><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/description/">
 	    4. Median of Two Sorted Arrays</a></li>
-	    <li><a href="https://leetcode.com/problems/merge-two-sorted-lists/description/>
+	    <li><a href="https://leetcode.com/problems/longest-palindromic-substring/">
+	    5. Longest Palindromic Substring</a></li>
+	    <li><a href="https://leetcode.com/problems/reverse-integer/">
+	    7. Reverse Integer</a></li>
+	    <li><a href="https://leetcode.com/problems/regular-expression-matching/">
+	    10. Regular Expression Matching	</a></li>
+    	<li><a href="https://leetcode.com/problems/container-with-most-water/">
+	    11. Container With Most Water</a></li>
+	    <li><a href="https://leetcode.com/problems/3sum/">
+	    15. 3Sum</a></li>
+    	<li><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">
+	    17. Letter Combinations of a Phone Number</a></li>
+	    <li><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">
+	    19. Remove Nth Node From End of List</a></li>
+	    <li><a href="https://leetcode.com/problems/valid-parentheses/">
+	    20. Valid Parentheses</a></li>
+	    <li><a href="https://leetcode.com/problems/merge-two-sorted-lists/description/">
 	    21. Merge Two Sorted Lists</a></li>
 	    <li><a href="https://leetcode.com/problems/unique-paths-ii/description/">
 	    63. Unique Paths II</a></li>
