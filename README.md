@@ -75,8 +75,7 @@
 	    63. Unique Paths II</a></li>
 		<li><a href="https://leetcode.com/problems/minimum-path-sum/description/">
 	    64. Minimum Path Sum</a></li>
-		<li><a href="https://leetcode.com/problems/edit-distance/description/">
-	    	    72. Edit Distance</a></li>
+		<li><a href="https://leetcode.com/problems/edit-distance/description/">72. Edit Distance</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-61/problems/monotone-increasing-digits/">738. Monotone Increasing Digits</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-61/problems/daily-temperatures/">739. Daily Temperatures</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-61/problems/delete-and-earn/">740. Delete and Earn</a></li>
@@ -84,13 +83,26 @@
 		<li><a href="https://leetcode.com/contest/weekly-contest-63/problems/shortest-completing-word/">748. Shortest Completing Word</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-63/problems/number-of-corner-rectangles/">750. Number Of Corner Rectangles</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-65/problems/reach-a-number/">754. Reach a Number</a></li>
+		<li><a href="https://leetcode.com/problems/is-graph-bipartite/">785. Is Graph Bipartite?</a></li>
 		<li><a href="https://leetcode.com/problems/number-of-matching-subsequences/">792. Number of Matching Subsequences</a></li>
 		<li><a href="https://leetcode.com/problems/valid-tic-tac-toe-state/description/">794. Valid Tic-Tac-Toe State</a></li>
 		<li><a href="https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/">795. Number of Subarrays with Bounded Maximum</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-75/problems/rotate-string/">796. Rotate String</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-75/problems/all-paths-from-source-to-target/">797. All Paths From Source To Target</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-75/problems/champagne-tower/">799. Champagne Tower</a></li>
+		<li><a href="https://leetcode.com/contest/weekly-contest-77/submissions/detail/146786838/">804. Unique Morse Code Words</a></li>
+		<li><a href="https://leetcode.com/problems/number-of-lines-to-write-string/">806. Number of Lines To Write String</a></li>
 		<li><a href="https://leetcode.com/contest/weekly-contest-75/problems/champagne-tower/">807. Max Increase to Keep City Skyline</a></li>
 		<li><a href="https://leetcode.com/problems/linked-list-components/description/">817. Linked List Components</a></li>
+		<li><a href="https://leetcode.com/problems/most-common-word/">819. Most Common Word</a></li>
+		<li><a href="https://leetcode.com/problems/goat-latin/">824. Goat Latin</a></li>
+		<li><a href="https://leetcode.com/problems/friends-of-appropriate-ages/">825. Friends Of Appropriate Ages</a></li>
+		<li><a href="https://leetcode.com/problems/most-profit-assigning-work/">826. Most Profit Assigning Work</a></li>
+		<li><a href="https://leetcode.com/problems/flipping-an-image/">832. Flipping an Image</a></li>
+		<li><a href="https://leetcode.com/problems/smallest-range-i/">908. Smallest Range I</a></li>909. Snakes and Ladders
+		<li><a href="https://leetcode.com/problems/snakes-and-ladders/">909. Snakes and Ladders</a></li>
+		<li><a href="https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/">914. X of a Kind in a Deck of Cards</a></li>
+		<li><a href="https://leetcode.com/problems/partition-array-into-disjoint-intervals/">915. Partition Array into Disjoint Intervals</a></li>
+		<li><a href="https://leetcode.com/problems/word-subsets/">916. Word Subsets</a></li>
 	</ol>
 </center>
