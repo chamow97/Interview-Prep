@@ -100,6 +100,7 @@
 		<li><a href="https://leetcode.com/problems/most-profit-assigning-work/">826. Most Profit Assigning Work</a></li>
 		<li><a href="https://leetcode.com/problems/flipping-an-image/">832. Flipping an Image</a></li>
 		<li><a href="https://leetcode.com/problems/smallest-range-i/">908. Smallest Range I</a></li>
+		<li><a href="https://leetcode.com/problems/smallest-range-i/">908. Smallest Range I</a></li>
 		<li><a href="https://leetcode.com/problems/snakes-and-ladders/">909. Snakes and Ladders</a></li>
 		<li><a href="https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/">914. X of a Kind in a Deck of Cards</a></li>
 		<li><a href="https://leetcode.com/problems/partition-array-into-disjoint-intervals/">915. Partition Array into Disjoint Intervals</a></li>
